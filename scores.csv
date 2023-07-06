@@ -1,0 +1,6 @@
+Article Number,Score using LR,Score using LR with RFE,Score using SVM,Score using RF,Score using DT
+1,0.89,0.88,0.87,0.88,0.86
+7,0.86,0.86,0.86,0.86,0.86
+10,0.98,0.98,0.98,0.98,0.97
+13,0.92,0.92,0.94,0.94,0.94
+19,0.89,0.89,0.89,0.89,0.9
